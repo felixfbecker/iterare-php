@@ -1,0 +1,11 @@
+{
+    "name": "felixfbecker/iterare",
+    "autoload": {
+        "files": [
+            "src/functions.php"
+        ],
+        "psr-4": {
+            "Iterare\\": "src/"
+        }
+    }
+}
